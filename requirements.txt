@@ -6,3 +6,5 @@ scikit-learn
 ipython
 scipy
 statsmodels
+mlflow
+tensorflow

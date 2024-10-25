@@ -10,3 +10,4 @@ mlflow
 tensorflow
 shap
 lime
+ipywidgets

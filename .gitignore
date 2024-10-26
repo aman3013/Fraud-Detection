@@ -1,3 +1,5 @@
 venv/
 data/
 notebooks/mlruns
+models/
+scripts/api.log

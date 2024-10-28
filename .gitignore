@@ -3,3 +3,4 @@ data/
 notebooks/mlruns
 models/
 scripts/api.log
+scripts/__pycache__/Model_training.cpython-312.pyc

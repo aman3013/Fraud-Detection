@@ -13,3 +13,4 @@ lime
 ipywidgets
 Flask
 joblib
+imbalanced-learn

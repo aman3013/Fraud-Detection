@@ -14,3 +14,4 @@ ipywidgets
 Flask
 joblib
 imbalanced-learn
+Dash
